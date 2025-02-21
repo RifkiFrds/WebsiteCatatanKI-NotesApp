@@ -1,0 +1,24 @@
+# Node modules 
+node_modules/
+
+# Folder build
+dist/
+
+
+# File lock package manager
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Konfigurasi editor
+.vscode/
+.idea/
+*.log
+
+# Cache & dependensi yang tidak diperlukan
+.cache/
+.DS_Store
+*.bak
+*.swp
+
+
