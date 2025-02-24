@@ -6,11 +6,11 @@ CatatanKI Website catatan sederhana berbasis JavaScript yang memungkinkan penggu
 https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 
 # 🚀 Fitur Website
-1. 📝 Menambahkan catatan baru dengan judul, isi, dan tanggal
+1. 📝 Menambahkan catatan baru dengan judul, isi
 2. ✏️ Menampilkan daftar catatan yang masih aktif
-3. 📦 Mengarsipkan dan membuka kembali catatan
-4. ❌ Menghapus catatan yang tidak diperlukan
-5. 📱 Tampilan Mode Gelap/Terang, dan responsif dengan animasi halus menggunakan anime.js
+3. ❌ Menghapus catatan yang tidak diperlukan
+4. 🌙 Tampilan Mode Gelap/Terang
+5. 📱 Tampilan responsif dengan animasi halus menggunakan anime.js
 
 # 🛠 Teknologi yang Digunakan
 ### Development Dependencies
