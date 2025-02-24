@@ -26,12 +26,22 @@ https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 - webpack-dev-server version ^3.11.2
 - webpack-merge version ^5.7.3
 - mini-css-extract-plugin version "^2.9.2"
-
 ### Dependencies
 - @fortawesome/fontawesome-free version "^6.7.2",
 - animejs" version "^3.2.2",
 - sweetalert2 version "^11.16.0",
 - swiper version "^11.2.4"
+
+# 📥 Cara Instalasi & Menjalankan Proyek
+1. Clone Repository
+- git clone https://github.com/RifkiFrds/WebsiteCatatanKI-NotesAp
+- cd NotesApp
+2. Instal Dependensi
+- npm install
+3. Jalankan dalam Mode Pengembangan
+- npm run start-dev
+4. Build untuk Produksi
+- npm run build
 
 # 🎮 Cara Menggunakan
 1. Tambahkan Catatan
@@ -43,9 +53,13 @@ https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 - Klik Arsipkan untuk menyimpan catatan ke arsip
 - Klik Buka Arsip untuk mengembalikan catatan ke daftar utama
 
-# 🎨 Tampilan Aplikasi
-
-
+# 🎨 Tampilan Website
+1. Tampilan Home
+<a href="https://ibb.co.com/TDTxjmFm"><img src="https://i.ibb.co.com/TDTxjmFm/Screenshot-52.png" alt="Home" border="0" width="600"></a>
+2. Tampilan Form
+<a href="https://ibb.co.com/hJ38FmqW"><img src="https://i.ibb.co.com/hJ38FmqW/Screenshot-53.png" alt="Form" width="600" border="0"></a>
+3. Tampilan Isi Catatan - Footer
+<a href="https://ibb.co.com/MkndpNGC"><img src="https://i.ibb.co.com/MkndpNGC/Screenshot-55.png" alt="Isi Catatan" widht="600" border="0"></a>
 
 # 🏆 Kontributor
 👤 Muhamad Rifki Firdaus
