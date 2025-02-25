@@ -34,7 +34,7 @@ https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 
 # 📥 Cara Instalasi & Menjalankan Proyek
 1. Clone Repository
-- git clone https://github.com/RifkiFrds/WebsiteCatatanKI-NotesAp
+- git clone https://github.com/RifkiFrds/WebsiteCatatanKI-NotesApp
 - cd NotesApp
 2. Instal Dependensi
 - npm install
@@ -54,12 +54,9 @@ https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 - Klik Buka Arsip untuk mengembalikan catatan ke daftar utama
 
 # 🎨 Tampilan Website
-1. Tampilan Home
-<a href="https://ibb.co.com/TDTxjmFm"><img src="https://i.ibb.co.com/TDTxjmFm/Screenshot-52.png" alt="Home" border="0" width="600"></a>
-2. Tampilan Form
-<a href="https://ibb.co.com/hJ38FmqW"><img src="https://i.ibb.co.com/hJ38FmqW/Screenshot-53.png" alt="Form" width="600" border="0"></a>
-3. Tampilan Isi Catatan - Footer
-<a href="https://ibb.co.com/MkndpNGC"><img src="https://i.ibb.co.com/MkndpNGC/Screenshot-55.png" alt="Isi Catatan" widht="600" border="0"></a>
+![Tampilan Home](/public/images/home.png)
+![Tampilan Form](/public//images/form.png)
+![Tampilan Catatan-Footer](/public/images/catatan.png)
 
 # 🏆 Kontributor
 👤 Muhamad Rifki Firdaus
