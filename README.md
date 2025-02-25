@@ -9,7 +9,7 @@ https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 1. 📝 Menambahkan catatan baru dengan judul, isi
 2. ✏️ Menampilkan daftar catatan yang masih aktif
 3. ❌ Menghapus catatan yang tidak diperlukan
-4. 🌙 Tampilan Mode Gelap/Terang
+4. 🌙 Dark Mode / Light Mode ☀️
 5. 📱 Tampilan responsif dengan animasi halus menggunakan anime.js
 
 # 🛠 Teknologi yang Digunakan
@@ -54,9 +54,15 @@ https://notes-app-main-7431ffrfi-rifkifrdstechs-projects.vercel.app/
 - Klik Buka Arsip untuk mengembalikan catatan ke daftar utama
 
 # 🎨 Tampilan Website
+### 🏠 Tampilan Home  
 ![Tampilan Home](/public/images/home.png)
-![Tampilan Form](/public//images/form.png)
-![Tampilan Catatan-Footer](/public/images/catatan.png)
+
+### 📝 Tampilan Form  
+![Tampilan Form](/public/images/form.png)
+
+### 📂 Tampilan Catatan-Footer  
+![Tampilan Catatan](/public/images/catatan.png)
+
 
 # 🏆 Kontributor
 👤 Muhamad Rifki Firdaus
